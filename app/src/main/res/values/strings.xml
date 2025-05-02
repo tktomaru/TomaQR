@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TomaQR</string>
+    <string name="title_home">QR生成</string>
+    <string name="title_dashboard">QR/バーコード読み取り</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
